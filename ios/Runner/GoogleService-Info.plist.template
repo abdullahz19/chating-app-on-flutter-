@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>280362611983-79ssqdui3kcebr3v4aet73fivrs375n1.apps.googleusercontent.com</string>
+	<string>YOUR_CLIENT_ID.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.280362611983-79ssqdui3kcebr3v4aet73fivrs375n1</string>
+	<string>com.googleusercontent.apps.YOUR_CLIENT_ID</string>
 	<key>API_KEY</key>
 	<string>REPLACE_WITH_YOUR_API_KEY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>280362611983</string>
+	<string>YOUR_SENDER_ID</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.chatApp</string>
 	<key>PROJECT_ID</key>
-	<string>chat-app---eng4003-37561</string>
+	<string>YOUR_PROJECT_ID</string>
 	<key>STORAGE_BUCKET</key>
-	<string>chat-app---eng4003-37561.appspot.com</string>
+	<string>YOUR_STORAGE_BUCKET</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:280362611983:ios:755beb06a9f1c96e10fa7a</string>
+	<string>YOUR_GOOGLE_APP_ID</string>
 </dict>
 </plist>

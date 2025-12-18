@@ -1,0 +1,23 @@
+# Flutter/Dart/Pub related
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+build/
+/.gradle
+
+# Android/IntelliJ
+.idea/
+*.iml
+
+# iOS
+Pods/
+Runner/GeneratedPluginRegistrant.*
+
+# Misc
+*.class
+*.log
+
+# Ignore local Google config files that contain API keys
+/android/app/google-services.json
+/ios/Runner/GoogleService-Info.plist
